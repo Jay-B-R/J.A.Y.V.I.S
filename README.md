@@ -8,7 +8,7 @@ v2: https://www.youtube.com/watch?v=miybxQSFNl4
 
 Hello there! 
 
-This is J.A.Y.V.I.S, a local SLM that has both text and voice features, with the ability to use prior context, alongside the current time and the name of the user to interact with them in a seamless fashion. 
+My name is Jayaditya Buddan Ramesh, a high school sophomore, and this is J.A.Y.V.I.S, a local SLM that has both text and voice features, with the ability to use prior context, alongside the current time and the name of the user to interact with them in a seamless fashion. 
 
 The voice mode gives the user the ability to interact with the model regardless of the window they are on, by pressing ctrl + shift + space, giving them the ability to multi-task without having to switch back and forth between tabs.
 
