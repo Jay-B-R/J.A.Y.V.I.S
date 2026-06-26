@@ -6,6 +6,10 @@ v1: https://www.youtube.com/watch?v=0xSosJ9Ktk4
 
 v2: https://www.youtube.com/watch?v=miybxQSFNl4
 
+v3 sneak peak: 
+<img width="1918" height="1078" alt="image" src="https://github.com/user-attachments/assets/9878b97d-1407-4f10-98a4-a761f84bb0fd" />
+
+
 Hello there! 
 
 My name is Jayaditya Buddan Ramesh, a high school sophomore, and this is J.A.Y.V.I.S, a local SLM that has both text and voice features, with the ability to use prior context, alongside the current time and the name of the user to interact with them in a seamless fashion. 
