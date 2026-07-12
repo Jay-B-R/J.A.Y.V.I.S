@@ -1,5 +1,7 @@
 Made_By_JAYADITYA
 
+Hello, my name is Jayaditya Buddan Ramesh, and I am a high school sophomore. Below is a detailed documentation of the J.A.Y.V.I.S project. Hope you enjoy!
+
 Reference Links:
 
 v1: https://www.youtube.com/watch?v=0xSosJ9Ktk4
