@@ -12,7 +12,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 
 ## Version History
 
-### v1
+### Version 1
 [Watch Demo](https://www.youtube.com/watch?v=0xSosJ9Ktk4)
 
 **Features:**
@@ -22,7 +22,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 
 ---
 
-### v2
+### Version 2
 [Watch Demo](https://www.youtube.com/watch?v=miybxQSFNl4)
 
 **Features:**
@@ -32,7 +32,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 
 ---
 
-### v3
+### Version 3
 
 **Sneak Peek:**
 
@@ -41,6 +41,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 > The version shown above looks similar to the current build, though some updates have been made since. Refer to the guide videos below for the latest state.
 
 [Watch Demo (v3)](https://www.youtube.com/watch?v=RXxtpjXXzfk)
+
 [Watch Demo (v3r2)](https://www.youtube.com/watch?v=PPKzmH_0Xis)
 
 **Features:**
