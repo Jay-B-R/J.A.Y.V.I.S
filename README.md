@@ -1,6 +1,6 @@
 # J.A.Y.V.I.S
 
-Created by **Jayaditya Buddan Ramesh**: High School Sophomore
+Created by **Jayaditya Buddan Ramesh**: Sophomore @ Poolesville High School
 
 ---
 
@@ -10,19 +10,25 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 
 ---
 
+## Tech Stack
+
+- **Language:** Python 3.13.12
+
+---
+
 ## Version History
 
-### Version 1
+### v1
 [Watch Demo](https://www.youtube.com/watch?v=0xSosJ9Ktk4)
 
 **Features:**
 - Uni-model SLM messaging feature (offline)
 - Vocal speech communication using Microsoft David
-- Transparency Mode for hidden app readability
+- Transparency Mode for hidden app readability (still active as of v3)
 
 ---
 
-### Version 2
+### v2
 [Watch Demo](https://www.youtube.com/watch?v=miybxQSFNl4)
 
 **Features:**
@@ -32,7 +38,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 
 ---
 
-### Version 3
+### v3
 
 **Sneak Peek:**
 
@@ -50,11 +56,17 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 - Mini model for high-level message summarization (used for search and naming)
 - Refined response timing (under 5 seconds without recording software)
 - Auto-name functionality (triggers on 3rd message for proper context)
-- Built-in browser (powers Search Intelligence mode to run searches and open tabs; also usable as a regular browser)
+- Automatic routing between fast and advanced models based on keyword detection and response complexity
+- Built-in browser powering Search Intelligence mode, which performs real-time synthesis of search results (not just tab navigation); also usable as a regular browser
 - Ability to unload / reload models per user preference
-- Ability to define custom skills
-- Ability to switch between advanced and fast models
+- Ability to define custom skills (implemented via a system prompt and name, saved as a file)
 - Ability to extract / delete chats
 - Chat search bar
 - Custom greeting after conversations end
 - System-wide, user-dependent context
+
+---
+
+## Access
+
+This application is not publicly available. Access is granted only via the linked Google Form. 
