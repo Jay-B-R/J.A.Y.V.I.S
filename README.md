@@ -19,7 +19,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 ## Version History
 
 ### v1
-[Watch Demo](https://www.youtube.com/watch?v=0xSosJ9Ktk4)
+[Watch Demo (v1)](https://www.youtube.com/watch?v=0xSosJ9Ktk4)
 
 **Features:**
 - Uni-model SLM messaging feature (offline)
@@ -29,7 +29,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 ---
 
 ### v2
-[Watch Demo](https://www.youtube.com/watch?v=miybxQSFNl4)
+[Watch Demo (v2)](https://www.youtube.com/watch?v=miybxQSFNl4)
 
 **Features:**
 - Hands-off conversation functionality
