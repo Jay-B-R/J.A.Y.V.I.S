@@ -12,7 +12,7 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 
 ## Tech Stack
 
-- **Language:** Python 3.13.12 (Backend)
+- **Language:** Python 3.13.14 (Backend)
 - **Frontend:** HTML & CSS
 
 ---
