@@ -1,12 +1,18 @@
 # J.A.Y.V.I.S
 
-Created by **Jayaditya Buddan Ramesh**: Sophomore @ Poolesville High School
+Created by **Jayaditya Buddan Ramesh**: Junior @ Poolesville High School
 
 ---
 
 ## Overview
 
-J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across multiple versions. Below is a full changelog and feature breakdown for each release, along with reference videos.
+J.A.Y.V.I.S is a personal AI assistant project, aiming to bring features from online models to a custom, fast, offline application. J.A.Y.V.I.S has developed and iterated on across multiple versions. Below is a full changelog and feature breakdown for each release, along with reference videos.
+
+---
+
+## Development Stage
+
+J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video regarding V4 and V5 will be made once V5 is finalized. 
 
 ---
 
@@ -68,6 +74,24 @@ J.A.Y.V.I.S is a personal AI assistant project, developed and iterated on across
 
 ---
 
-## Access
+### v4
+
+**Features:**
+
+- Spotlight-style command palette for running apps, weather, math, and general questions
+- Global hotkey quick-ask overlay
+- Browser audio visualizer for easy access to hidden tabs
+- 7-band equalizer + output device picker
+- Streaming TTS
+- Live markdown + LaTeX preview while typing
+- Code Forge as collapsible split pane
+- Floating in-app browser with tabs
+- Music + Downloads folder for browser
+- Long-term memory across chats
+- Tool calling
+- Major performance overhaul and UI refinements
+
+
+### Access
 
 This application is not publicly available. Access is granted only via the linked Google Form. 
