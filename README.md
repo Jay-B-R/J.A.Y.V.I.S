@@ -91,6 +91,7 @@ J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video re
 - Tool calling
 - Major performance overhaul and UI refinements
 
+---
 
 ### Access
 
