@@ -95,4 +95,4 @@ J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video re
 
 ### Access
 
-This application is not publicly available. Access is granted only via the linked Google Form. 
+This application is not publicly available. Access is granted only via the linked [Google Form](https://forms.gle/znfdXAtMVbZ9jPYPA). 
