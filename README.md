@@ -20,8 +20,7 @@ J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video re
 
 ## Tech Stack
 
-- **Language:** Python 3.13.14, C
-- **Frontend:** HTML & CSS
+- **Language:** Python v3.13.14, C v17
 
 ---
 
