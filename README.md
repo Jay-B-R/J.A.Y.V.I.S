@@ -1,4 +1,4 @@
-![Project Title Banner](github.png)
+![Project Title Banner](Github.png)
 
 
 # J.A.Y.V.I.S
