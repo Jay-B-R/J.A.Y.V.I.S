@@ -30,6 +30,7 @@ J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video re
 ## Version History
 
 ### v1
+#### The Very First Blueprint Of J.A.Y.V.I.S.
 [Watch Demo (v1)](https://www.youtube.com/watch?v=0xSosJ9Ktk4)
 
 **Features:**
@@ -40,6 +41,7 @@ J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video re
 ---
 
 ### v2
+#### Improved Security And Functionality.
 [Watch Demo (v2)](https://www.youtube.com/watch?v=miybxQSFNl4)
 
 **Features:**
@@ -50,6 +52,7 @@ J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video re
 ---
 
 ### v3
+#### The UI Redesign And Inference Update.
 
 **Sneak Peek:**
 
@@ -79,6 +82,7 @@ J.A.Y.V.I.S is currently in V5 of its development cycle. A feature drop video re
 ---
 
 ### v4
+#### The Agentic Update. 
 
 **Features:**
 
